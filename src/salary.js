@@ -1,5 +1,5 @@
 const readlineSync = require("readline-sync");
-const annual = readlineSync.question("\nannual Salary: ");
+const annual = readlineSync.question("annual Salary: ");
 
 const i = 0.07;
 const f = 0.157;

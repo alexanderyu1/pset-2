@@ -8,4 +8,4 @@ let c = (length * width) - circlearea;
 let r = Math.round (c);
 c = c.toLocaleString ("en", {minimumFractionDigits: 2, maximumFractionDigits: 2} );
 
-console.log("\nThe surface area of a stadnard Cornhole board is " + c + " square inch(es).");
+console.log("The surface area of a stadnard Cornhole board is " + c + " square inch(es).");
